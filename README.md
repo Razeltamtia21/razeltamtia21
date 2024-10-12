@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Razeltamtia21
+- 👀 I’m interested in web development, especially backend development and responsive design.
+- 🌱 I’m currently learning PHP, MySQL, JavaScript, and how to create responsive websites.
+- 💞️ I’m looking to collaborate on open-source web development projects or any exciting web-related challenges.
+- 📫 How to reach me: razeltamtia21@email.com | [Instagram](https://www.instagram.com/rzlmcl21)
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I’m inspired by Cristiano Ronaldo’s discipline, and I love solving coding challenges!
